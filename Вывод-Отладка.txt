@@ -1,0 +1,13 @@
+﻿"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Users\stepa\source\repos\Aisd_4sem_2lab\Debug\Aisd_4sem_2lab.exe". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Символы загружены.
+Поток 0xab0 завершился с кодом 0 (0x0).
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". Символы загружены.
+"Aisd_4sem_2lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". Символы загружены.
+Поток 0x34c4 завершился с кодом 0 (0x0).
+Поток 0x1904 завершился с кодом 0 (0x0).
+Программа "[13796] Aisd_4sem_2lab.exe" завершилась с кодом 0 (0x0).
