@@ -43,25 +43,7 @@ namespace UnitTest2lab
 			Assert::IsTrue(Test.encodeTheStatement() == "11100100");
 		}
 
-		TEST_METHOD(encodingTheStatement)
-		{
-			MyMap<char, int>TestMap;
-
-			TestMap.insert('a', 1);
-			TestMap.insert('b', 1);
-
-			int languagePower = 2;
-
-			string statement = "ba";
-
-
-			Coding Test(TestMap, languagePower, statement);
-
-			Test.encodingTheStatement(0,1);
-			Assert::IsTrue(Test.encodeTheStatement() == "10");
-		}
-
-
+		
 		TEST_METHOD(decodingTheStatement)
 		{
 			MyMap<char, int>TestMap;
@@ -99,6 +81,24 @@ namespace UnitTest2lab
 
 			Assert::IsTrue(Test.encodeTheStatement() == " 110001010");
 			Assert::IsTrue(Test.decodeTheStatement() == "acccbb");
+		}
+		
+		TEST_METHOD(encodingTheStatement)
+		{
+			MyMap<char, int>TestMap;
+
+			TestMap.insert('a', 1);
+			TestMap.insert('b', 1);
+
+			int languagePower = 2;
+
+			string statement = "ba";
+
+
+			Coding Test(TestMap, languagePower, statement);
+
+			Test.encodingTheStatement(0,1);
+			Assert::IsTrue(Test.encodeTheStatement() == "10");
 		}
 	};
 }
